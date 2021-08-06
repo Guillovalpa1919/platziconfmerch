@@ -1,0 +1,8 @@
+//por cada preset que se utilice para las confiraciones en webpack se agregan aqui.
+//compila ES6 y react
+{
+    "presets": [
+        "@babel/preset-env",
+        "@babel/preset-react"
+    ]
+}
